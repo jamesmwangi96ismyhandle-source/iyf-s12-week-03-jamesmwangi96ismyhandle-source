@@ -1,2 +1,53 @@
 # iyf-s12-week-03-jamesmwangi96ismyhandle-source.
-Week 03 project for the IYF Weekend Academy Season 12. Practicing command-line skills, Git workflows, branching, pull requests, code reviews, merge conflict resolution, and collaboration.
+# Week 03: Command Line and Git Workflow
+
+## About Me
+
+I am an Agriculture Teacher with an interest in technology, education, teamwork, and continuous professional development. This project is part of my IYF Weekend Academy Season 12 training.
+
+## Project Overview
+
+This repository documents my Week 03 practice in command-line operations, Git version control, branching, pull requests, code reviews, merge conflict resolution, and collaborative software development.
+
+## Skills Practiced
+
+- Navigating directories and managing files through the terminal
+- Using Git to track changes and maintain project history
+- Creating, merging, and deleting branches
+- Writing and using a Bash project setup script
+- Configuring `.gitignore`
+- Opening and reviewing pull requests
+- Resolving merge conflicts collaboratively
+
+## Lessons Learned
+
+- Git helps track changes and makes it easier to collaborate safely.
+- Feature branches allow work to be developed separately before merging.
+- Pull requests provide a structured way to review changes.
+- Merge conflicts occur when competing changes affect the same part of a file.
+- Clear commit messages make project history easier to understand.
+
+## Challenges Faced
+
+One challenge was creating and executing the project setup script correctly. I learned to check file names, save files before running commands, and verify results using terminal commands.
+
+Another challenge was understanding how Git tracks untracked files and how changes move from the working directory to a commit.
+
+## Collaboration
+
+- **Partner:** taurajames
+- **Pair repository:** https://github.com/taurajames/iyf-s12-week-03-pair-taurajames
+- **Pull request I opened:** [Insert the URL of my own pull request]
+- **Pull request I reviewed:** [Insert the URL of the pull request I reviewed]
+- **Merge-conflict pull request:** [Insert the URL of the merge-conflict pull request]
+
+## Project Files
+
+- `terminal-log.md` — records the commands used and explains their purpose.
+- `new-project.sh` — Bash script for setting up a new project.
+- `.gitignore` — specifies files Git should ignore.
+- `daily-challenges/` — contains the daily challenge exercises.
+
+## Acknowledgements
+
+Thanks to the IYF Weekend Academy and my assigned partner for the opportunity to practise version control and collaborative workflows.
