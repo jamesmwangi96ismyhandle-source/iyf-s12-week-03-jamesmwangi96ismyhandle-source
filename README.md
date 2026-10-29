@@ -51,3 +51,17 @@ Another challenge was understanding how Git tracks untracked files and how chang
 ## Acknowledgements
 
 Thanks to the IYF Weekend Academy and my assigned partner for the opportunity to practise version control and collaborative workflows.
+
+## Git Workflow Practice
+
+I used separate Git branches to organise my work and keep changes isolated from the main branch.
+
+My workflow included:
+
+1. Checking the current branch and working-tree status.
+2. Creating a feature branch for a specific task.
+3. Making and committing meaningful changes.
+4. Pushing the feature branch to GitHub.
+5. Opening a pull request for review before merging.
+
+This process helps maintain a clear project history and supports collaboration.
