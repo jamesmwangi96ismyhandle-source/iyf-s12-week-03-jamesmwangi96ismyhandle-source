@@ -1,4 +1,4 @@
-# iyf-s12-week-03-jamesmwangi96ismyhandle-source.
+# iyf-s12-week-03-jamesmwangi96ismyhandle-source
 # Week 03: Command Line and Git Workflow
 
 ## About Me
