@@ -41,3 +41,16 @@ git status
 `ls -la demo-project`
 
 **What it does:** Lists the files created in the test project.
+## Task 5.5: Verify and clean up the test project
+
+### Command
+`rm -r practice-test`
+
+**What it does:** Removes the temporary test project after confirming that the setup script works.
+
+### Command
+`git status`
+
+**What it does:** Checks that the repository is clean after removing the temporary test project.
+
+**Result:** Confirmed that the working tree is clean and the main branch is synchronized with origin/main.
