@@ -1,4 +1,5 @@
 # iyf-s12-week-03-jamesmwangi96ismyhandle-source
+
 # Week 03: Command Line and Git Workflow
 
 ## About Me
@@ -37,9 +38,9 @@ Another challenge was understanding how Git tracks untracked files and how chang
 
 - **Partner:** taurajames
 - **Pair repository:** https://github.com/taurajames/iyf-s12-week-03-pair-taurajames
-- **Pull request I opened:** [Insert the URL of my own pull request]
-- **Pull request I reviewed:** [Insert the URL of the pull request I reviewed]
-- **Merge-conflict pull request:** [Insert the URL of the merge-conflict pull request]
+- **Pull request I opened:** https://github.com/jamesmwangi96ismyhandle-source/iyf-s12-week-03-jamesmwangi96ismyhandle-source/pull/1
+- **Pull request I reviewed:** [To be added after partner creates a pull request]
+- **Merge-conflict pull request:** [To be added after the merge-conflict exercise]
 
 ## Project Files
 
@@ -64,4 +65,7 @@ My workflow included:
 4. Pushing the feature branch to GitHub.
 5. Opening a pull request for review before merging.
 
+<<<<<<< HEAD
 This process helps maintain a clear project history and supports collaboration.
+=======
+>>>>>>> 0192238 (docs: fix collaboration section in README)
